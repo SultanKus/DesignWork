@@ -1,0 +1,14 @@
+<resources>
+    <string name="appName_text">DesignWork</string>
+    <string name="pizza_title">Beef Chesee</string>
+    <string name="cheese_text">Chesee</string>
+    <string name="sousage_text">Sousage</string>
+    <string name="olive_text">Olive</string>
+    <string name="pepper_text">Pepper</string>
+    <string name="deliveryTime_text">20 min</string>
+    <string name="delivery_text">Delivery </string>
+    <string name="explanation_text">Meat lover, get ready to meet your pizza! </string>
+    <string name="price_text">$ 5.98 </string>
+    <string name="button_text">ADD TO CART </string>
+    <string name="pizza">Pizza</string>
+</resources>

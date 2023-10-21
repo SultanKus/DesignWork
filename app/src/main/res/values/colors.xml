@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="mainColour">#CB2020</color>
+    <color name="mainColourButDark">#BF2020</color>
+    <color name="colourOfText1">#FFFFFFFF</color>
+    <color name="colourOfText2">#636363</color>
+</resources>

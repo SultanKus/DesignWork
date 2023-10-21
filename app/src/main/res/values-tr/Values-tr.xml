@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName_text">DesignWork</string>
+    <string name="pizza_title">Etli Peynirli</string>
+    <string name="cheese_text">Peynir</string>
+    <string name="sousage_text">Sucuk</string>
+    <string name="olive_text">Zeytin</string>
+    <string name="pepper_text">Biber</string>
+    <string name="deliveryTime_text">20 dk</string>
+    <string name="delivery_text">Teslimat </string>
+    <string name="explanation_text">Yemek sever, pizzanla tanışmaya hazırlan! </string>
+    <string name="price_text">125 ₺ </string>
+    <string name="button_text">SEPETE EKLE </string>
+    <string name="pizza">Pizza</string>
+
+
+</resources>
